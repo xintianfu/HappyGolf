@@ -1,4 +1,4 @@
-<img width="1462" height="923" alt="image" src="https://github.com/user-attachments/assets/186e3d29-7d91-46e5-94cd-e7025215fa28" /># HappyGolf
+# HappyGolf
 
 > **Platform:** Microsoft HoloLens 2  
 > **Tech:** Unity + MRTK2 · Gaze / Gesture / Voice  
@@ -49,10 +49,6 @@ Using **gaze**, **gesture**, and **voice** interactions, players can practice go
 - Developed a streamlined **voice command pipeline** (`Select → Place → Club / Ball`).  
 - Added a **virtual coach (Mixamo)** as guide, feedback source, and menu interface.  
 - Refined synchronization between **audio and animation**, prevented scaling bugs, and stabilized **mode transitions**.  
-
-<p align="center">
-  <img src="docs/flow.png" width="740" alt="HappyGolf interaction flow">
-</p>
 
 ---
 
