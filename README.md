@@ -1,4 +1,4 @@
-# HappyGolf
+<img width="1462" height="923" alt="image" src="https://github.com/user-attachments/assets/186e3d29-7d91-46e5-94cd-e7025215fa28" /># HappyGolf
 
 > **Platform:** Microsoft HoloLens 2  
 > **Tech:** Unity + MRTK2 · Gaze / Gesture / Voice  
@@ -21,8 +21,10 @@ Using **gaze**, **gesture**, and **voice** interactions, players can practice go
 
 ## 🎮 **Game Modes**
 - **Practice Mode** – Learn the basic controls and environment in clear weather.  
-- **Weather Mode** – Train under challenging **🌧️ rain**, **❄️ snow**, or **🌬️ wind** to build focus and adaptability.  
-
+- **Weather Mode** – Train under challenging **🌧️ rain**, **❄️ snow**, or **🌬️ wind** to build focus and adaptability.<br>
+<p align="center">
+<img width="614" height="678" alt="image" src="https://github.com/user-attachments/assets/bab42d36-3d14-4258-a1d7-315a39bc4616" />
+</p>
 > ***Design insight:*** By introducing controllable environmental difficulty, the game helps players develop <ins>anticipation</ins> and <ins>emotional stability</ins> through repeated, contextualized practice.
 
 ---
@@ -30,7 +32,11 @@ Using **gaze**, **gesture**, and **voice** interactions, players can practice go
 ## 🧠 **Core Interactions**
 - **Gaze** – Target objects and place the virtual landscape using voice commands (`"Select"` → `"Place"`).  
 - **Voice** – Generate the golf club and ball (`"Club"` / `"Ball"`) or reset gameplay elements.  
-- **Gesture** – Grab and swing the virtual club naturally using both-hand pinch gestures.  
+- **Gesture** – Grab and swing the virtual club naturally using both-hand pinch gestures.<br>
+<p align="center">
+<img width="1462" height="923" alt="image" src="https://github.com/user-attachments/assets/74cf79e8-2ffc-429a-bfed-8ea024addbb4" />
+<img width="1489" height="979" alt="image" src="https://github.com/user-attachments/assets/33de1e1d-3887-43e0-bca2-1bbdf2f663ec" />
+</p>
 
 **Instant feedback includes:**  
 **Sound effects** (club-ball impact / hole score), **scoreboard**, **ball speed**, and **coach dialogue**.
