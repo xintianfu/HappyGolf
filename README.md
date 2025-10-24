@@ -15,7 +15,7 @@ Using **gaze**, **gesture**, and **voice** interactions, players can practice go
   <img src="docs/cover.gif" width="720" alt="HappyGolf cover demo">
 </p>
 
-🎥 **Watch on YouTube:** [https://www.youtube.com/watch?v=Qb0LGc1ehJM](https://www.youtube.com/watch?v=Qb0LGc1ehJM)
+🎥 **Watch the video:** [https://www.youtube.com/watch?v=Qb0LGc1ehJM](https://www.youtube.com/watch?v=Qb0LGc1ehJM)
 
 ---
 
